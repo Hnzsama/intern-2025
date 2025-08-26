@@ -77,7 +77,7 @@ export default function Home() {
   return (
     <>
       <HeroSection />
-      <SponsorsSection />
+      {/* <SponsorsSection /> */}
       <AchievementSection />
       <ActivitiesSection />
       <SubjectsSection />
