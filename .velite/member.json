@@ -1,0 +1,654 @@
+[
+  {
+    "slug": "member/david-diaz",
+    "firstName": "David",
+    "lastName": "Diaz",
+    "imageUrl": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?q=80&w=1760&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "studentId": "2023003",
+    "nickname": "Dave",
+    "position": "Sekretaris",
+    "department": "Teknik Informatika",
+    "semester": 5,
+    "birthDate": "2003-01-10",
+    "birthPlace": "Surabaya",
+    "address": "Jl. Pemuda No. 789, Surabaya",
+    "phone": "+62814-2468-1357",
+    "email": "david.diaz@student.univ.ac.id",
+    "bio": "Detail-oriented individual dengan keahlian di Machine Learning. Bertanggung jawab dalam dokumentasi dan administrasi kelas dengan presisi tinggi.",
+    "hobbies": [
+      "Machine Learning",
+      "Data Science",
+      "Chess",
+      "Writing"
+    ],
+    "skills": [
+      {
+        "name": "Documentation",
+        "level": 95
+      },
+      {
+        "name": "Machine Learning",
+        "level": 87
+      },
+      {
+        "name": "Data Analysis",
+        "level": 82
+      },
+      {
+        "name": "Administrative Skills",
+        "level": 90
+      }
+    ],
+    "achievements": [
+      "Best Documentation Award - Project Management Class",
+      "Juara 3 Data Science Competition Tingkat Nasional",
+      "Published Research Paper tentang ML Applications",
+      "Volunteer Secretary untuk Conference Internasional"
+    ],
+    "socialNetworks": [
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/david-diaz-ml/"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/daviddiaz-ml"
+      },
+      {
+        "name": "Kaggle",
+        "url": "https://kaggle.com/daviddiaz"
+      }
+    ],
+    "activities": [
+      {
+        "title": "Membuat sistem dokumentasi digital untuk kelas",
+        "description": "Mengimplementasikan sistem cloud-based untuk semua dokumen kelas",
+        "date": "2023-11-12"
+      },
+      {
+        "title": "Menyusun laporan kegiatan kelas bulanan",
+        "description": "Dokumentasi komprehensif semua aktivitas dan pencapaian kelas",
+        "date": "2023-10-30"
+      },
+      {
+        "title": "Workshop tentang effective note-taking",
+        "description": "Sharing tips dan tools untuk dokumentasi yang efektif",
+        "date": "2023-10-18"
+      }
+    ],
+    "order": 3,
+    "isActive": true,
+    "joinDate": "2023-09-01",
+    "body": "const{Fragment:a,jsx:n,jsxs:e}=arguments[0];function _createMdxContent(i){const t={a:\"a\",em:\"em\",h1:\"h1\",h2:\"h2\",h3:\"h3\",li:\"li\",ol:\"ol\",p:\"p\",strong:\"strong\",ul:\"ul\",...i.components};return e(a,{children:[n(t.h1,{id:\"tentang-saya\",children:n(t.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#tentang-saya\",children:\"Tentang Saya\"})}),\"\\n\",n(t.p,{children:\"Halo! Saya David Diaz, Sekretaris kelas Teknik Informatika angkatan 2023. Sebagai seseorang yang detail-oriented dan passionate tentang data, saya memastikan semua dokumentasi dan administrasi kelas berjalan dengan rapi dan terorganisir.\"}),\"\\n\",n(t.h2,{id:\"tanggung-jawab-utama\",children:n(t.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#tanggung-jawab-utama\",children:\"Tanggung Jawab Utama\"})}),\"\\n\",n(t.p,{children:\"Sebagai Sekretaris kelas, saya mengelola berbagai aspek administratif:\"}),\"\\n\",n(t.h3,{id:\"-dokumentasi--record-keeping\",children:n(t.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#-dokumentasi--record-keeping\",children:\"📋 Dokumentasi & Record Keeping\"})}),\"\\n\",e(t.ul,{children:[\"\\n\",n(t.li,{children:\"Mencatat semua meeting dan keputusan kelas\"}),\"\\n\",n(t.li,{children:\"Mengelola database informasi anggota kelas\"}),\"\\n\",n(t.li,{children:\"Menyimpan dan mengorganisir semua dokumen penting\"}),\"\\n\",n(t.li,{children:\"Membuat laporan berkala tentang kegiatan kelas\"}),\"\\n\"]}),\"\\n\",n(t.h3,{id:\"-data-management--analysis\",children:n(t.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#-data-management--analysis\",children:\"📊 Data Management & Analysis\"})}),\"\\n\",e(t.ul,{children:[\"\\n\",n(t.li,{children:\"Tracking attendance dan participation rate\"}),\"\\n\",n(t.li,{children:\"Analisis statistik performance kelas\"}),\"\\n\",n(t.li,{children:\"Monitoring deadline dan jadwal penting\"}),\"\\n\",n(t.li,{children:\"Creating dashboards untuk progress tracking\"}),\"\\n\"]}),\"\\n\",n(t.h3,{id:\"-digital-infrastructure\",children:n(t.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#-digital-infrastructure\",children:\"💻 Digital Infrastructure\"})}),\"\\n\",e(t.ul,{children:[\"\\n\",n(t.li,{children:\"Mengelola sistem file sharing kelas\"}),\"\\n\",n(t.li,{children:\"Maintaining class website dan digital platforms\"}),\"\\n\",n(t.li,{children:\"Automating administrative processes where possible\"}),\"\\n\",n(t.li,{children:\"Ensuring data security dan backup systems\"}),\"\\n\"]}),\"\\n\",n(t.h2,{id:\"background-machine-learning\",children:n(t.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#background-machine-learning\",children:\"Background Machine Learning\"})}),\"\\n\",n(t.p,{children:\"Ketertarikan saya di bidang Machine Learning membantu dalam mengoptimalkan proses administratif kelas. Saya sering menggunakan data analysis untuk:\"}),\"\\n\",e(t.ul,{children:[\"\\n\",n(t.li,{children:\"Mengidentifikasi pattern dalam performance akademik kelas\"}),\"\\n\",n(t.li,{children:\"Predicting optimal schedules untuk kegiatan kelas\"}),\"\\n\",n(t.li,{children:\"Analyzing feedback untuk continuous improvement\"}),\"\\n\",n(t.li,{children:\"Creating automated systems untuk routine tasks\"}),\"\\n\"]}),\"\\n\",n(t.h2,{id:\"sistem--tools-yang-saya-gunakan\",children:n(t.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#sistem--tools-yang-saya-gunakan\",children:\"Sistem & Tools yang Saya Gunakan\"})}),\"\\n\",n(t.p,{children:\"Untuk memastikan efisiensi maksimal, saya menggunakan berbagai tools:\"}),\"\\n\",e(t.ol,{children:[\"\\n\",e(t.li,{children:[n(t.strong,{children:\"Cloud Storage Systems\"}),\" - Google Drive, OneDrive untuk file management\"]}),\"\\n\",e(t.li,{children:[n(t.strong,{children:\"Database Management\"}),\" - Airtable untuk tracking member information\"]}),\"\\n\",e(t.li,{children:[n(t.strong,{children:\"Documentation Tools\"}),\" - Notion untuk comprehensive note-taking\"]}),\"\\n\",e(t.li,{children:[n(t.strong,{children:\"Analytics Tools\"}),\" - Custom Python scripts untuk data analysis\"]}),\"\\n\",e(t.li,{children:[n(t.strong,{children:\"Communication Platforms\"}),\" - Discord bots untuk automated notifications\"]}),\"\\n\"]}),\"\\n\",n(t.h2,{id:\"research--development\",children:n(t.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#research--development\",children:\"Research & Development\"})}),\"\\n\",n(t.p,{children:\"Saya juga aktif dalam research, khususnya aplikasi Machine Learning untuk educational administration. Beberapa project yang sedang saya kerjakan:\"}),\"\\n\",e(t.ul,{children:[\"\\n\",e(t.li,{children:[n(t.strong,{children:\"Intelligent Scheduling System\"}),\" untuk optimasi jadwal kelas\"]}),\"\\n\",e(t.li,{children:[n(t.strong,{children:\"Predictive Analytics\"}),\" untuk early warning system academic performance\"]}),\"\\n\",e(t.li,{children:[n(t.strong,{children:\"Natural Language Processing\"}),\" untuk automated meeting minutes\"]}),\"\\n\"]}),\"\\n\",n(t.h2,{id:\"mari-berkolaborasi\",children:n(t.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#mari-berkolaborasi\",children:\"Mari Berkolaborasi!\"})}),\"\\n\",n(t.p,{children:\"Saya selalu terbuka untuk feedback tentang sistem administrasi kelas dan ide-ide untuk improvement. Jika ada kebutuhan dokumentasi khusus atau ingin collaborate dalam project ML, feel free to reach out!\"}),\"\\n\",n(t.p,{children:n(t.em,{children:'\"Good documentation is the foundation of great teamwork.\"'})})]})}return{default:function(a={}){const{wrapper:e}=a.components||{};return e?n(e,{...a,children:n(_createMdxContent,{...a})}):_createMdxContent(a)}};",
+    "slugAsParams": "david-diaz"
+  },
+  {
+    "slug": "member/elizabeth-moore",
+    "firstName": "Elizabeth",
+    "lastName": "Moore",
+    "imageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=1528&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "studentId": "2023002",
+    "nickname": "Liz",
+    "position": "Wakil Ketua Kelas",
+    "department": "Teknik Informatika",
+    "semester": 5,
+    "birthDate": "2003-07-22",
+    "birthPlace": "Bandung",
+    "address": "Jl. Dago No. 456, Bandung",
+    "phone": "+62813-7654-3210",
+    "email": "elizabeth.moore@student.univ.ac.id",
+    "bio": "Creative problem solver dengan passion di bidang UI/UX Design. Selalu siap mendukung dan membantu ketua kelas dalam menjalankan visi-misi kelas.",
+    "hobbies": [
+      "UI/UX Design",
+      "Digital Art",
+      "Photography",
+      "Event Planning"
+    ],
+    "skills": [
+      {
+        "name": "UI/UX Design",
+        "level": 90
+      },
+      {
+        "name": "Creative Thinking",
+        "level": 88
+      },
+      {
+        "name": "Event Management",
+        "level": 82
+      },
+      {
+        "name": "Communication",
+        "level": 85
+      }
+    ],
+    "achievements": [
+      "Juara 2 UI/UX Design Competition Nasional",
+      "Best Creative Design Award 2023",
+      "Volunteer Koordinator Event Fakultas",
+      "Featured Designer di Platform Dribbble"
+    ],
+    "socialNetworks": [
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/elizabeth-moore/"
+      },
+      {
+        "name": "Behance",
+        "url": "https://behance.net/elizabethmoore"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://instagram.com/liz.designs"
+      }
+    ],
+    "activities": [
+      {
+        "title": "Mendesain visual untuk kegiatan kelas",
+        "description": "Membuat poster dan materi visual untuk berbagai event kelas",
+        "date": "2023-11-10"
+      },
+      {
+        "title": "Koordinasi acara class gathering",
+        "description": "Mengorganisir acara kumpul bersama kelas bulanan",
+        "date": "2023-10-25"
+      },
+      {
+        "title": "Workshop UI/UX untuk teman sekelas",
+        "description": "Mengadakan sharing session tentang design thinking",
+        "date": "2023-10-15"
+      }
+    ],
+    "order": 2,
+    "isActive": true,
+    "joinDate": "2023-09-01",
+    "body": "const{Fragment:a,jsx:e,jsxs:n}=arguments[0];function _createMdxContent(i){const r={a:\"a\",h1:\"h1\",h2:\"h2\",h3:\"h3\",li:\"li\",ol:\"ol\",p:\"p\",strong:\"strong\",...i.components};return n(a,{children:[e(r.h1,{id:\"tentang-saya\",children:e(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#tentang-saya\",children:\"Tentang Saya\"})}),\"\\n\",e(r.p,{children:\"Hi! Saya Elizabeth Moore, atau biasa dipanggil Liz. Sebagai Wakil Ketua Kelas, saya berkomitmen untuk mendukung visi kepemimpinan kelas sambil membawa perspektif kreatif dalam setiap kegiatan yang kita lakukan.\"}),\"\\n\",e(r.h2,{id:\"peran--kontribusi\",children:e(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#peran--kontribusi\",children:\"Peran & Kontribusi\"})}),\"\\n\",e(r.p,{children:\"Sebagai Wakil Ketua Kelas, saya fokus pada beberapa area utama:\"}),\"\\n\",e(r.h3,{id:\"1-creative--visual-communication\",children:e(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#1-creative--visual-communication\",children:\"1. Creative & Visual Communication\"})}),\"\\n\",e(r.p,{children:\"Saya bertanggung jawab untuk memastikan semua komunikasi visual kelas menarik dan informatif. Mulai dari poster event, presentasi, hingga dokumentasi kegiatan kelas.\"}),\"\\n\",e(r.h3,{id:\"2-event-coordination\",children:e(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#2-event-coordination\",children:\"2. Event Coordination\"})}),\"\\n\",e(r.p,{children:\"Bekerja sama dengan ketua kelas dalam merencanakan dan mengeksekusi berbagai kegiatan, baik yang bersifat akademik maupun non-akademik.\"}),\"\\n\",e(r.h3,{id:\"3-student-engagement\",children:e(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#3-student-engagement\",children:\"3. Student Engagement\"})}),\"\\n\",e(r.p,{children:\"Mencari cara-cara kreatif untuk meningkatkan partisipasi dan keterlibatan seluruh anggota kelas dalam berbagai aktivitas.\"}),\"\\n\",e(r.h2,{id:\"background-design\",children:e(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#background-design\",children:\"Background Design\"})}),\"\\n\",e(r.p,{children:\"Passion saya di bidang UI/UX Design tidak hanya sebatas hobby, tetapi juga menjadi value yang saya bawa ke dalam peran sebagai wakil ketua kelas. Saya percaya bahwa good design is good communication, dan prinsip ini saya terapkan dalam setiap aspek kepemimpinan kelas.\"}),\"\\n\",e(r.h2,{id:\"proyek-terbaru\",children:e(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#proyek-terbaru\",children:\"Proyek Terbaru\"})}),\"\\n\",e(r.p,{children:\"Beberapa inisiatif yang sedang saya kerjakan:\"}),\"\\n\",n(r.ol,{children:[\"\\n\",n(r.li,{children:[e(r.strong,{children:\"Visual Brand Identity Kelas\"}),\" - Mengembangkan identitas visual yang konsisten untuk kelas\"]}),\"\\n\",n(r.li,{children:[e(r.strong,{children:\"Digital Portfolio Class\"}),\" - Platform untuk showcase karya-karya teman sekelas\"]}),\"\\n\",n(r.li,{children:[e(r.strong,{children:\"Interactive Study Materials\"}),\" - Membuat materi belajar yang lebih engaging dan visual\"]}),\"\\n\",n(r.li,{children:[e(r.strong,{children:\"Class Memory Book\"}),\" - Dokumentasi visual perjalanan kelas selama kuliah\"]}),\"\\n\"]}),\"\\n\",e(r.h2,{id:\"mari-berkolaborasi\",children:e(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#mari-berkolaborasi\",children:\"Mari Berkolaborasi!\"})}),\"\\n\",e(r.p,{children:\"Saya selalu excited untuk berkolaborasi dalam berbagai project kreatif atau event kelas. Jika ada ide-ide menarik atau butuh bantuan dalam hal design dan visual communication, jangan hesitate untuk reach out!\"}),\"\\n\",e(r.p,{children:\"Together, let's make our class experience more colorful and memorable!\"})]})}return{default:function(a={}){const{wrapper:n}=a.components||{};return n?e(n,{...a,children:e(_createMdxContent,{...a})}):_createMdxContent(a)}};",
+    "slugAsParams": "elizabeth-moore"
+  },
+  {
+    "slug": "member/evan-james",
+    "firstName": "Evan",
+    "lastName": "James",
+    "imageUrl": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "studentId": "2023035",
+    "nickname": "Evan",
+    "position": "Koordinator Kebersihan",
+    "department": "Teknik Informatika",
+    "semester": 5,
+    "birthDate": "2003-08-12",
+    "birthPlace": "Bandung",
+    "address": "Jl. Dago No. 156, Bandung Utara",
+    "phone": "+62815-6789-0123",
+    "email": "evan.james@student.univ.ac.id",
+    "bio": "Peduli lingkungan dan berkomitmen menciptakan ruang belajar yang bersih, nyaman, dan kondusif untuk semua anggota kelas.",
+    "hobbies": [
+      "Environmental Care",
+      "Organizing",
+      "Photography",
+      "Hiking"
+    ],
+    "skills": [
+      {
+        "name": "Event Organization",
+        "level": 88
+      },
+      {
+        "name": "Team Coordination",
+        "level": 90
+      },
+      {
+        "name": "Environmental Management",
+        "level": 92
+      },
+      {
+        "name": "Problem Solving",
+        "level": 85
+      }
+    ],
+    "achievements": [
+      "Green Campus Ambassador 2023",
+      "Best Environment Campaign Student 2023",
+      "Zero Waste Workshop Facilitator",
+      "Clean Campus Movement Coordinator"
+    ],
+    "socialNetworks": [
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/evan-james/"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/evan_eco"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/evanjames"
+      }
+    ],
+    "activities": [
+      {
+        "title": "Mengorganisir jadwal piket harian kelas",
+        "description": "Menyusun dan mengawasi pelaksanaan jadwal piket kebersihan",
+        "date": "2023-12-01"
+      },
+      {
+        "title": "Kampanye reduce waste di kelas",
+        "description": "Menginisiasi program pengurangan sampah dan recycle",
+        "date": "2023-11-20"
+      },
+      {
+        "title": "Koordinasi dengan cleaning service fakultas",
+        "description": "Meeting dengan pihak kebersihan untuk koordinasi fasilitas",
+        "date": "2023-11-05"
+      }
+    ],
+    "order": 6,
+    "isActive": true,
+    "joinDate": "2023-09-01",
+    "body": "const{Fragment:a,jsx:n,jsxs:e}=arguments[0];function _createMdxContent(i){const r={a:\"a\",h1:\"h1\",h2:\"h2\",li:\"li\",ol:\"ol\",p:\"p\",strong:\"strong\",ul:\"ul\",...i.components};return e(a,{children:[n(r.h1,{id:\"tentang-saya\",children:n(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#tentang-saya\",children:\"Tentang Saya\"})}),\"\\n\",n(r.p,{children:\"Halo! Saya Evan James, Koordinator Kebersihan Kelas Teknik Informatika angkatan 2023. Saya percaya bahwa lingkungan belajar yang bersih dan terorganisir adalah kunci produktivitas dan kenyamanan bersama.\"}),\"\\n\",n(r.h2,{id:\"visi--misi\",children:n(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#visi--misi\",children:\"Visi & Misi\"})}),\"\\n\",n(r.p,{children:\"Visi saya sebagai Koordinator Kebersihan adalah menciptakan culture of cleanliness di kelas yang tidak hanya fokus pada kebersihan fisik, tapi juga kesadaran lingkungan dan tanggung jawab bersama.\"}),\"\\n\",n(r.p,{children:n(r.strong,{children:\"Misi yang saya jalankan:\"})}),\"\\n\",e(r.ul,{children:[\"\\n\",n(r.li,{children:\"Memastikan kebersihan dan kerapihan ruang kelas setiap hari\"}),\"\\n\",n(r.li,{children:\"Mengembangkan sistem piket yang fair dan efektif\"}),\"\\n\",n(r.li,{children:\"Menginisiasi program eco-friendly di lingkungan kelas\"}),\"\\n\",n(r.li,{children:\"Meningkatkan kesadaran lingkungan seluruh anggota kelas\"}),\"\\n\"]}),\"\\n\",n(r.h2,{id:\"pengalaman-environmental-leadership\",children:n(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#pengalaman-environmental-leadership\",children:\"Pengalaman Environmental Leadership\"})}),\"\\n\",n(r.p,{children:\"Sebagai Green Campus Ambassador, saya telah belajar banyak tentang sustainable living dan environmental management. Pengalaman ini saya terapkan untuk menciptakan kelas yang tidak hanya bersih tapi juga ramah lingkungan.\"}),\"\\n\",n(r.h2,{id:\"program-kebersihan--lingkungan\",children:n(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#program-kebersihan--lingkungan\",children:\"Program Kebersihan & Lingkungan\"})}),\"\\n\",n(r.p,{children:\"Program yang telah dan sedang berjalan:\"}),\"\\n\",e(r.ol,{children:[\"\\n\",e(r.li,{children:[n(r.strong,{children:\"Smart Cleaning Schedule\"}),\" - Jadwal piket digital dengan reminder otomatis\"]}),\"\\n\",e(r.li,{children:[n(r.strong,{children:\"Zero Waste Initiative\"}),\" - Program pengurangan dan pengelolaan sampah\"]}),\"\\n\",e(r.li,{children:[n(r.strong,{children:\"Green Corner\"}),\" - Sudut hijau dengan tanaman untuk kualitas udara yang lebih baik\"]}),\"\\n\",e(r.li,{children:[n(r.strong,{children:\"Eco-Awareness Campaign\"}),\" - Kampanye kesadaran lingkungan rutin\"]}),\"\\n\"]}),\"\\n\",n(r.h2,{id:\"mari-bersama-ciptakan-lingkungan-belajar-yang-nyaman\",children:n(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#mari-bersama-ciptakan-lingkungan-belajar-yang-nyaman\",children:\"Mari Bersama Ciptakan Lingkungan Belajar yang Nyaman!\"})}),\"\\n\",n(r.p,{children:\"Kebersihan adalah tanggung jawab kita bersama. Saya mengajak semua anggota kelas untuk aktif berpartisipasi dalam menjaga kebersihan dan kelestarian lingkungan. Small actions, big impact!\"})]})}return{default:function(a={}){const{wrapper:e}=a.components||{};return e?n(e,{...a,children:n(_createMdxContent,{...a})}):_createMdxContent(a)}};",
+    "slugAsParams": "evan-james"
+  },
+  {
+    "slug": "member/leo-miranda",
+    "firstName": "Leo",
+    "lastName": "Miranda",
+    "imageUrl": "https://i.pravatar.cc/250?img=58",
+    "studentId": "2023001",
+    "nickname": "Leo",
+    "position": "Ketua Kelas",
+    "department": "Teknik Informatika",
+    "semester": 5,
+    "birthDate": "2003-03-15",
+    "birthPlace": "Jakarta",
+    "address": "Jl. Sudirman No. 123, Jakarta Selatan",
+    "phone": "+62812-3456-7890",
+    "email": "leo.miranda@student.univ.ac.id",
+    "bio": "Passionate leader dengan visi untuk memajukan kelas dan menciptakan lingkungan belajar yang kondusif untuk semua anggota.",
+    "hobbies": [
+      "Programming",
+      "Leadership",
+      "Public Speaking",
+      "Reading"
+    ],
+    "skills": [
+      {
+        "name": "Leadership",
+        "level": 95
+      },
+      {
+        "name": "Web Development",
+        "level": 88
+      },
+      {
+        "name": "Public Speaking",
+        "level": 92
+      },
+      {
+        "name": "Project Management",
+        "level": 85
+      }
+    ],
+    "achievements": [
+      "Ketua BEM Fakultas Teknik 2023",
+      "Juara 1 Lomba Leadership Tingkat Universitas",
+      "Best Student Leader Award 2023",
+      "Founder Tech Community kampus"
+    ],
+    "socialNetworks": [
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/leopoldo-miranda/"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/leoMirandaa"
+      },
+      {
+        "name": "X",
+        "url": "https://x.com/leo_mirand4"
+      }
+    ],
+    "activities": [
+      {
+        "title": "Mengorganisir rapat koordinasi kelas bulanan",
+        "description": "Memimpin rapat rutin untuk membahas progress dan kendala kelas",
+        "date": "2023-11-15"
+      },
+      {
+        "title": "Inisiasi program mentoring peer-to-peer",
+        "description": "Meluncurkan program bimbingan antar mahasiswa",
+        "date": "2023-10-20"
+      },
+      {
+        "title": "Koordinasi dengan dosen wali terkait akademik",
+        "description": "Meeting reguler dengan dosen untuk evaluasi kelas",
+        "date": "2023-10-10"
+      }
+    ],
+    "order": 1,
+    "isActive": true,
+    "joinDate": "2023-09-01",
+    "body": "const{Fragment:a,jsx:n,jsxs:e}=arguments[0];function _createMdxContent(i){const r={a:\"a\",h1:\"h1\",h2:\"h2\",li:\"li\",ol:\"ol\",p:\"p\",strong:\"strong\",ul:\"ul\",...i.components};return e(a,{children:[n(r.h1,{id:\"tentang-saya\",children:n(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#tentang-saya\",children:\"Tentang Saya\"})}),\"\\n\",n(r.p,{children:\"Halo! Saya Leo Miranda, Ketua Kelas Teknik Informatika angkatan 2023. Sebagai seorang pemimpin, saya percaya bahwa kesuksesan kelas tidak hanya diukur dari nilai akademik, tetapi juga dari seberapa solid dan supportif komunitas yang kita bangun bersama.\"}),\"\\n\",n(r.h2,{id:\"visi--misi\",children:n(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#visi--misi\",children:\"Visi & Misi\"})}),\"\\n\",n(r.p,{children:\"Visi saya sebagai Ketua Kelas adalah menciptakan lingkungan belajar yang inklusif, kolaboratif, dan mendorong setiap anggota kelas untuk mencapai potensi terbaiknya.\"}),\"\\n\",n(r.p,{children:n(r.strong,{children:\"Misi yang saya jalankan:\"})}),\"\\n\",e(r.ul,{children:[\"\\n\",n(r.li,{children:\"Memfasilitasi komunikasi yang efektif antara mahasiswa, dosen, dan pihak fakultas\"}),\"\\n\",n(r.li,{children:\"Mengorganisir kegiatan yang dapat meningkatkan bonding dan skill development\"}),\"\\n\",n(r.li,{children:\"Menjadi penghubung aspirasi kelas dengan pihak akademik\"}),\"\\n\",n(r.li,{children:\"Mendorong partisipasi aktif semua anggota kelas dalam berbagai kegiatan\"}),\"\\n\"]}),\"\\n\",n(r.h2,{id:\"pengalaman-kepemimpinan\",children:n(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#pengalaman-kepemimpinan\",children:\"Pengalaman Kepemimpinan\"})}),\"\\n\",n(r.p,{children:\"Sebelum menjadi Ketua Kelas, saya telah aktif dalam berbagai organisasi kemahasiswaan. Pengalaman sebagai Ketua BEM Fakultas mengajarkan saya pentingnya mendengarkan, berkomunikasi dengan baik, dan mengambil keputusan yang tepat untuk kepentingan bersama.\"}),\"\\n\",n(r.h2,{id:\"proyek--inisiatif\",children:n(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#proyek--inisiatif\",children:\"Proyek & Inisiatif\"})}),\"\\n\",n(r.p,{children:\"Beberapa program yang telah saya inisiasi di kelas:\"}),\"\\n\",e(r.ol,{children:[\"\\n\",e(r.li,{children:[n(r.strong,{children:\"Weekly Study Group\"}),\" - Sesi belajar bersama rutin setiap minggu\"]}),\"\\n\",e(r.li,{children:[n(r.strong,{children:\"Peer Mentoring Program\"}),\" - Program bimbingan antar mahasiswa\"]}),\"\\n\",e(r.li,{children:[n(r.strong,{children:\"Industry Connect\"}),\" - Mengundang praktisi industri untuk sharing session\"]}),\"\\n\",e(r.li,{children:[n(r.strong,{children:\"Class Bonding Activities\"}),\" - Kegiatan untuk memperkuat kebersamaan kelas\"]}),\"\\n\"]}),\"\\n\",n(r.h2,{id:\"mari-bersama-membangun-kelas-yang-hebat\",children:n(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#mari-bersama-membangun-kelas-yang-hebat\",children:\"Mari Bersama Membangun Kelas yang Hebat!\"})}),\"\\n\",n(r.p,{children:\"Saya selalu terbuka untuk mendengar ide, saran, atau kritik dari teman-teman sekelas. Jangan ragu untuk menghubungi saya kapan saja. Mari kita bersama-sama membuat masa kuliah kita menjadi pengalaman yang bermakna dan mempersiapkan diri untuk menjadi profesional yang unggul di masa depan!\"})]})}return{default:function(a={}){const{wrapper:e}=a.components||{};return e?n(e,{...a,children:n(_createMdxContent,{...a})}):_createMdxContent(a)}};",
+    "slugAsParams": "leo-miranda"
+  },
+  {
+    "slug": "member/michael-holland",
+    "firstName": "Michael",
+    "lastName": "Holland",
+    "imageUrl": "https://images.unsplash.com/photo-1616805765352-beedbad46b2a?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "studentId": "2023015",
+    "nickname": "Mike",
+    "position": "Bendahara",
+    "department": "Teknik Informatika",
+    "semester": 5,
+    "birthDate": "2003-07-22",
+    "birthPlace": "Surabaya",
+    "address": "Jl. Pemuda No. 45, Surabaya Pusat",
+    "phone": "+62813-4567-8901",
+    "email": "michael.holland@student.univ.ac.id",
+    "bio": "Detail-oriented dan bertanggung jawab dalam mengelola keuangan kelas dengan transparansi penuh untuk kesejahteraan bersama.",
+    "hobbies": [
+      "Accounting",
+      "Financial Planning",
+      "Reading",
+      "Traveling"
+    ],
+    "skills": [
+      {
+        "name": "Financial Management",
+        "level": 92
+      },
+      {
+        "name": "Data Analysis",
+        "level": 88
+      },
+      {
+        "name": "Microsoft Excel",
+        "level": 95
+      },
+      {
+        "name": "Communication",
+        "level": 85
+      }
+    ],
+    "achievements": [
+      "Best Financial Manager Student Organization 2023",
+      "Juara 2 Lomba Business Plan Tingkat Fakultas",
+      "Sertifikat Financial Literacy Workshop",
+      "Treasurer of Computer Science Student Association"
+    ],
+    "socialNetworks": [
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/michael-holland/"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/mike_holland"
+      }
+    ],
+    "activities": [
+      {
+        "title": "Membuat laporan keuangan kelas bulanan",
+        "description": "Menyusun laporan transparan pemasukan dan pengeluaran kelas",
+        "date": "2023-11-30"
+      },
+      {
+        "title": "Mengelola dana kas kelas dan kegiatan",
+        "description": "Mengatur alokasi dana untuk berbagai kegiatan kelas",
+        "date": "2023-11-15"
+      },
+      {
+        "title": "Koordinasi dengan panitia acara terkait budget",
+        "description": "Meeting dengan panitia untuk perencanaan anggaran kegiatan",
+        "date": "2023-10-25"
+      }
+    ],
+    "order": 4,
+    "isActive": true,
+    "joinDate": "2023-09-01",
+    "body": "const{Fragment:a,jsx:n,jsxs:e}=arguments[0];function _createMdxContent(i){const l={a:\"a\",h1:\"h1\",h2:\"h2\",li:\"li\",ol:\"ol\",p:\"p\",strong:\"strong\",ul:\"ul\",...i.components};return e(a,{children:[n(l.h1,{id:\"tentang-saya\",children:n(l.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#tentang-saya\",children:\"Tentang Saya\"})}),\"\\n\",n(l.p,{children:\"Halo! Saya Michael Holland, Bendahara Kelas Teknik Informatika angkatan 2023. Sebagai pengelola keuangan kelas, saya berkomitmen untuk menjaga transparansi dan akuntabilitas dalam setiap transaksi yang dilakukan untuk kepentingan bersama.\"}),\"\\n\",n(l.h2,{id:\"visi--misi\",children:n(l.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#visi--misi\",children:\"Visi & Misi\"})}),\"\\n\",n(l.p,{children:\"Visi saya sebagai Bendahara adalah menciptakan pengelolaan keuangan kelas yang transparan, efisien, dan dapat dipertanggungjawabkan kepada seluruh anggota kelas.\"}),\"\\n\",n(l.p,{children:n(l.strong,{children:\"Misi yang saya jalankan:\"})}),\"\\n\",e(l.ul,{children:[\"\\n\",n(l.li,{children:\"Mengelola keuangan kelas dengan sistem yang transparan dan akuntabel\"}),\"\\n\",n(l.li,{children:\"Menyediakan laporan keuangan yang mudah dipahami dan diakses semua anggota kelas\"}),\"\\n\",n(l.li,{children:\"Mengoptimalkan penggunaan dana kelas untuk kegiatan yang bermanfaat\"}),\"\\n\",n(l.li,{children:\"Memberikan saran finansial untuk kegiatan-kegiatan kelas\"}),\"\\n\"]}),\"\\n\",n(l.h2,{id:\"pengalaman-finansial\",children:n(l.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#pengalaman-finansial\",children:\"Pengalaman Finansial\"})}),\"\\n\",n(l.p,{children:\"Dengan pengalaman sebagai bendahara di berbagai organisasi kemahasiswaan, saya telah mengembangkan sistem pengelolaan keuangan yang efektif dan mudah diaudit. Saya juga aktif mengikuti workshop financial literacy untuk terus meningkatkan kemampuan.\"}),\"\\n\",n(l.h2,{id:\"sistem-pengelolaan-keuangan\",children:n(l.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#sistem-pengelolaan-keuangan\",children:\"Sistem Pengelolaan Keuangan\"})}),\"\\n\",n(l.p,{children:\"Sistem yang saya terapkan meliputi:\"}),\"\\n\",e(l.ol,{children:[\"\\n\",e(l.li,{children:[n(l.strong,{children:\"Digital Financial Tracking\"}),\" - Pencatatan digital semua transaksi\"]}),\"\\n\",e(l.li,{children:[n(l.strong,{children:\"Monthly Financial Report\"}),\" - Laporan bulanan yang detail dan transparan\"]}),\"\\n\",e(l.li,{children:[n(l.strong,{children:\"Budget Planning\"}),\" - Perencanaan anggaran untuk setiap kegiatan\"]}),\"\\n\",e(l.li,{children:[n(l.strong,{children:\"Emergency Fund Management\"}),\" - Pengelolaan dana darurat kelas\"]}),\"\\n\"]}),\"\\n\",n(l.h2,{id:\"mari-bersama-mengelola-keuangan-dengan-bijak\",children:n(l.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#mari-bersama-mengelola-keuangan-dengan-bijak\",children:\"Mari Bersama Mengelola Keuangan dengan Bijak!\"})}),\"\\n\",n(l.p,{children:\"Saya selalu terbuka untuk diskusi mengenai alokasi dana kelas dan siap memberikan penjelasan detail atas setiap transaksi. Transparansi adalah kunci kepercayaan, dan kepercayaan adalah fondasi kelas yang solid!\"})]})}return{default:function(a={}){const{wrapper:e}=a.components||{};return e?n(e,{...a,children:n(_createMdxContent,{...a})}):_createMdxContent(a)}};",
+    "slugAsParams": "michael-holland"
+  },
+  {
+    "slug": "member/pam-taylor",
+    "firstName": "Pam",
+    "lastName": "Taylor",
+    "imageUrl": "https://images.unsplash.com/photo-1573497019236-17f8177b81e8?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "studentId": "2023042",
+    "nickname": "Pam",
+    "position": "Koordinator Keagamaan",
+    "department": "Teknik Informatika",
+    "semester": 5,
+    "birthDate": "2003-04-08",
+    "birthPlace": "Yogyakarta",
+    "address": "Jl. Malioboro No. 234, Yogyakarta",
+    "phone": "+62816-7890-1234",
+    "email": "pam.taylor@student.univ.ac.id",
+    "bio": "Mengedepankan nilai-nilai spiritual dan moral dalam kehidupan kelas serta memfasilitasi kegiatan keagamaan yang inklusif.",
+    "hobbies": [
+      "Religious Studies",
+      "Community Service",
+      "Reading",
+      "Calligraphy"
+    ],
+    "skills": [
+      {
+        "name": "Interfaith Communication",
+        "level": 95
+      },
+      {
+        "name": "Event Organization",
+        "level": 90
+      },
+      {
+        "name": "Public Speaking",
+        "level": 88
+      },
+      {
+        "name": "Counseling",
+        "level": 85
+      }
+    ],
+    "achievements": [
+      "Interfaith Dialogue Facilitator 2023",
+      "Best Religious Activity Coordinator",
+      "Community Service Leadership Award",
+      "Spiritual Counselor Certificate"
+    ],
+    "socialNetworks": [
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/pam-taylor/"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/pam_spiritual"
+      }
+    ],
+    "activities": [
+      {
+        "title": "Mengorganisir kajian spiritual bulanan",
+        "description": "Menyelenggarakan kajian keagamaan yang inklusif untuk semua agama",
+        "date": "2023-11-25"
+      },
+      {
+        "title": "Koordinasi kegiatan hari besar keagamaan",
+        "description": "Merencanakan peringatan hari besar agama dengan toleransi",
+        "date": "2023-11-15"
+      },
+      {
+        "title": "Sesi konseling dan sharing spiritual",
+        "description": "Menyediakan ruang sharing untuk masalah spiritual dan personal",
+        "date": "2023-10-30"
+      }
+    ],
+    "order": 7,
+    "isActive": true,
+    "joinDate": "2023-09-01",
+    "body": "const{Fragment:a,jsx:n,jsxs:i}=arguments[0];function _createMdxContent(e){const r={a:\"a\",h1:\"h1\",h2:\"h2\",li:\"li\",ol:\"ol\",p:\"p\",strong:\"strong\",ul:\"ul\",...e.components};return i(a,{children:[n(r.h1,{id:\"tentang-saya\",children:n(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#tentang-saya\",children:\"Tentang Saya\"})}),\"\\n\",n(r.p,{children:\"Halo! Saya Pam Taylor, Koordinator Keagamaan Kelas Teknik Informatika angkatan 2023. Saya berkomitmen untuk memfasilitasi kehidupan spiritual yang harmonis dan inklusif bagi semua anggota kelas dari berbagai latar belakang agama.\"}),\"\\n\",n(r.h2,{id:\"visi--misi\",children:n(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#visi--misi\",children:\"Visi & Misi\"})}),\"\\n\",n(r.p,{children:\"Visi saya sebagai Koordinator Keagamaan adalah menciptakan atmosphere kelas yang penuh dengan nilai-nilai spiritual positif, toleransi, dan saling menghormati perbedaan keyakinan.\"}),\"\\n\",n(r.p,{children:n(r.strong,{children:\"Misi yang saya jalankan:\"})}),\"\\n\",i(r.ul,{children:[\"\\n\",n(r.li,{children:\"Memfasilitasi kegiatan keagamaan yang inklusif dan menghormati keberagaman\"}),\"\\n\",n(r.li,{children:\"Menyediakan ruang dialog antar agama yang konstruktif dan damai\"}),\"\\n\",n(r.li,{children:\"Mengintegrasikan nilai-nilai moral dalam kehidupan sehari-hari kelas\"}),\"\\n\",n(r.li,{children:\"Memberikan support spiritual bagi anggota kelas yang membutuhkan\"}),\"\\n\"]}),\"\\n\",n(r.h2,{id:\"pengalaman-interfaith-leadership\",children:n(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#pengalaman-interfaith-leadership\",children:\"Pengalaman Interfaith Leadership\"})}),\"\\n\",n(r.p,{children:\"Sebagai fasilitator dialog antar agama di tingkat universitas, saya telah belajar cara membangun jembatan komunikasi yang efektif antar umat berbeda agama. Pengalaman ini sangat berharga untuk menciptakan harmoni di kelas.\"}),\"\\n\",n(r.h2,{id:\"program-keagamaan--spiritual\",children:n(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#program-keagamaan--spiritual\",children:\"Program Keagamaan & Spiritual\"})}),\"\\n\",n(r.p,{children:\"Program yang telah dijalankan:\"}),\"\\n\",i(r.ol,{children:[\"\\n\",i(r.li,{children:[n(r.strong,{children:\"Monthly Spiritual Gathering\"}),\" - Pertemuan spiritual bulanan yang inklusif\"]}),\"\\n\",i(r.li,{children:[n(r.strong,{children:\"Interfaith Dialogue Session\"}),\" - Sesi dialog antar agama untuk saling memahami\"]}),\"\\n\",i(r.li,{children:[n(r.strong,{children:\"Moral Support Circle\"}),\" - Kelompok dukungan untuk masalah personal dan spiritual\"]}),\"\\n\",i(r.li,{children:[n(r.strong,{children:\"Religious Holiday Celebration\"}),\" - Peringatan hari besar agama dengan toleransi\"]}),\"\\n\"]}),\"\\n\",n(r.h2,{id:\"mari-bersama-membangun-spiritualitas-yang-harmonis\",children:n(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#mari-bersama-membangun-spiritualitas-yang-harmonis\",children:\"Mari Bersama Membangun Spiritualitas yang Harmonis!\"})}),\"\\n\",n(r.p,{children:\"Perbedaan keyakinan adalah anugerah yang memperkaya kehidupan kita. Saya mengajak semua anggota kelas untuk saling menghormati, belajar dari perbedaan, dan bersama-sama membangun atmosfer kelas yang penuh dengan nilai-nilai luhur dan kasih sayang.\"})]})}return{default:function(a={}){const{wrapper:i}=a.components||{};return i?n(i,{...a,children:n(_createMdxContent,{...a})}):_createMdxContent(a)}};",
+    "slugAsParams": "pam-taylor"
+  },
+  {
+    "slug": "member/sarah-robinson",
+    "firstName": "Sarah",
+    "lastName": "Robinson",
+    "imageUrl": "https://images.unsplash.com/photo-1573497161161-c3e73707e25c?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "studentId": "2023004",
+    "nickname": "Sarah",
+    "position": "Wakil Sekretaris",
+    "department": "Teknik Informatika",
+    "semester": 5,
+    "birthDate": "2003-09-05",
+    "birthPlace": "Yogyakarta",
+    "address": "Jl. Malioboro No. 321, Yogyakarta",
+    "phone": "+62815-9753-8642",
+    "email": "sarah.robinson@student.univ.ac.id",
+    "bio": "Cloud-native enthusiast yang selalu siap membantu dalam dokumentasi dan administrasi kelas. Passionate tentang teknologi modern dan automation.",
+    "hobbies": [
+      "Cloud Computing",
+      "DevOps",
+      "Kubernetes",
+      "Automation"
+    ],
+    "skills": [
+      {
+        "name": "Cloud Technologies",
+        "level": 88
+      },
+      {
+        "name": "Documentation",
+        "level": 85
+      },
+      {
+        "name": "Automation",
+        "level": 83
+      },
+      {
+        "name": "Organization",
+        "level": 87
+      }
+    ],
+    "achievements": [
+      "AWS Certified Cloud Practitioner",
+      "Best Automation Project - Cloud Computing Class",
+      "Kubernetes Workshop Facilitator",
+      "Open Source Contributor - Documentation Projects"
+    ],
+    "socialNetworks": [
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/sarah-robinson-cloud/"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/sarahrobinson-cloud"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/sarah_cloudnative"
+      }
+    ],
+    "activities": [
+      {
+        "title": "Mengautomasi sistem reminder untuk deadline",
+        "description": "Membuat bot automated untuk mengingatkan tugas dan deadline",
+        "date": "2023-11-08"
+      },
+      {
+        "title": "Backup dan sync dokumentasi kelas",
+        "description": "Implementasi sistem backup otomatis untuk semua file kelas",
+        "date": "2023-10-28"
+      },
+      {
+        "title": "Setup cloud infrastructure untuk class projects",
+        "description": "Konfigurasi environment cloud untuk project bersama",
+        "date": "2023-10-20"
+      }
+    ],
+    "order": 4,
+    "isActive": true,
+    "joinDate": "2023-09-01",
+    "body": "const{Fragment:n,jsx:e,jsxs:i}=arguments[0];function _createMdxContent(a){const l={a:\"a\",em:\"em\",h1:\"h1\",h2:\"h2\",h3:\"h3\",li:\"li\",ol:\"ol\",p:\"p\",strong:\"strong\",ul:\"ul\",...a.components};return i(n,{children:[e(l.h1,{id:\"tentang-saya\",children:e(l.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#tentang-saya\",children:\"Tentang Saya\"})}),\"\\n\",e(l.p,{children:\"Hello! Saya Sarah Robinson, Wakil Sekretaris kelas Teknik Informatika angkatan 2023. Sebagai cloud-native developer, saya membawa perspektif teknologi modern dalam mengelola administrasi dan dokumentasi kelas.\"}),\"\\n\",e(l.h2,{id:\"peran--kontribusi\",children:e(l.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#peran--kontribusi\",children:\"Peran & Kontribusi\"})}),\"\\n\",e(l.p,{children:\"Sebagai Wakil Sekretaris, saya fokus pada modernisasi dan otomatisasi proses administratif:\"}),\"\\n\",e(l.h3,{id:\"cloud-based-documentation\",children:e(l.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#cloud-based-documentation\",children:\"Cloud-Based Documentation\"})}),\"\\n\",i(l.ul,{children:[\"\\n\",e(l.li,{children:\"Implementasi sistem dokumentasi berbasis cloud\"}),\"\\n\",e(l.li,{children:\"Real-time collaboration untuk semua dokumen kelas\"}),\"\\n\",e(l.li,{children:\"Automated backup dan version control\"}),\"\\n\",e(l.li,{children:\"Cross-platform accessibility untuk semua anggota\"}),\"\\n\"]}),\"\\n\",e(l.h3,{id:\"process-automation\",children:e(l.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#process-automation\",children:\"Process Automation\"})}),\"\\n\",i(l.ul,{children:[\"\\n\",e(l.li,{children:\"Bot notifications untuk deadline dan announcements\"}),\"\\n\",e(l.li,{children:\"Automated attendance tracking systems\"}),\"\\n\",e(l.li,{children:\"Script untuk routine administrative tasks\"}),\"\\n\",e(l.li,{children:\"Integration antara berbagai platforms yang digunakan kelas\"}),\"\\n\"]}),\"\\n\",e(l.h3,{id:\"infrastructure-support\",children:e(l.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#infrastructure-support\",children:\"Infrastructure Support\"})}),\"\\n\",i(l.ul,{children:[\"\\n\",e(l.li,{children:\"Cloud environment setup untuk class projects\"}),\"\\n\",e(l.li,{children:\"CI/CD pipelines untuk documentation workflows\"}),\"\\n\",e(l.li,{children:\"Monitoring systems untuk class digital assets\"}),\"\\n\",e(l.li,{children:\"Security best practices untuk data management\"}),\"\\n\"]}),\"\\n\",e(l.h2,{id:\"technical-expertise\",children:e(l.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#technical-expertise\",children:\"Technical Expertise\"})}),\"\\n\",e(l.p,{children:\"Background saya di cloud computing dan DevOps memungkinkan implementasi solusi modern untuk kebutuhan administratif kelas:\"}),\"\\n\",e(l.p,{children:e(l.strong,{children:\"Cloud Platforms:\"})}),\"\\n\",i(l.ul,{children:[\"\\n\",e(l.li,{children:\"AWS (Amazon Web Services)\"}),\"\\n\",e(l.li,{children:\"Google Cloud Platform\"}),\"\\n\",e(l.li,{children:\"Microsoft Azure\"}),\"\\n\",e(l.li,{children:\"Digital Ocean\"}),\"\\n\"]}),\"\\n\",e(l.p,{children:e(l.strong,{children:\"DevOps Tools:\"})}),\"\\n\",i(l.ul,{children:[\"\\n\",e(l.li,{children:\"Docker & Kubernetes\"}),\"\\n\",e(l.li,{children:\"GitHub Actions\"}),\"\\n\",e(l.li,{children:\"Terraform\"}),\"\\n\",e(l.li,{children:\"Ansible\"}),\"\\n\"]}),\"\\n\",e(l.p,{children:e(l.strong,{children:\"Automation:\"})}),\"\\n\",i(l.ul,{children:[\"\\n\",e(l.li,{children:\"Python scripting\"}),\"\\n\",e(l.li,{children:\"Bash automation\"}),\"\\n\",e(l.li,{children:\"Webhook integrations\"}),\"\\n\",e(l.li,{children:\"API development\"}),\"\\n\"]}),\"\\n\",e(l.h2,{id:\"current-projects\",children:e(l.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#current-projects\",children:\"Current Projects\"})}),\"\\n\",e(l.p,{children:\"Beberapa inisiatif teknologi yang sedang saya kembangkan untuk kelas:\"}),\"\\n\",i(l.ol,{children:[\"\\n\",i(l.li,{children:[e(l.strong,{children:\"Class Dashboard\"}),\" - Real-time monitoring untuk semua metrics kelas\"]}),\"\\n\",i(l.li,{children:[e(l.strong,{children:\"Automated Workflow\"}),\" - Streamlining routine administrative processes\"]}),\"\\n\",i(l.li,{children:[e(l.strong,{children:\"Digital Archive\"}),\" - Comprehensive documentation system dengan search capabilities\"]}),\"\\n\",i(l.li,{children:[e(l.strong,{children:\"Notification System\"}),\" - Smart alerts untuk berbagai class activities\"]}),\"\\n\"]}),\"\\n\",e(l.h2,{id:\"learning--sharing\",children:e(l.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#learning--sharing\",children:\"Learning & Sharing\"})}),\"\\n\",e(l.p,{children:\"Saya percaya pada continuous learning dan knowledge sharing. Regularly mengadakan mini workshops tentang:\"}),\"\\n\",i(l.ul,{children:[\"\\n\",e(l.li,{children:\"Cloud fundamentals untuk teman sekelas\"}),\"\\n\",e(l.li,{children:\"Automation tools untuk productivity\"}),\"\\n\",e(l.li,{children:\"Best practices dalam documentation\"}),\"\\n\",e(l.li,{children:\"Modern development workflows\"}),\"\\n\"]}),\"\\n\",e(l.h2,{id:\"future-vision\",children:e(l.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#future-vision\",children:\"Future Vision\"})}),\"\\n\",e(l.p,{children:\"Visi saya adalah menciptakan digital infrastructure yang:\"}),\"\\n\",i(l.ul,{children:[\"\\n\",e(l.li,{children:\"Scalable dan sustainable untuk jangka panjang\"}),\"\\n\",e(l.li,{children:\"User-friendly untuk semua skill levels\"}),\"\\n\",e(l.li,{children:\"Secure dan reliable\"}),\"\\n\",e(l.li,{children:\"Cost-effective dan efficient\"}),\"\\n\"]}),\"\\n\",e(l.h2,{id:\"lets-build-together\",children:e(l.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#lets-build-together\",children:\"Let's Build Together!\"})}),\"\\n\",e(l.p,{children:\"Saya selalu excited untuk collaborate dalam implementing new technologies atau improving existing systems. Jika ada ide untuk digitalisasi proses kelas atau butuh bantuan dengan cloud technologies, don't hesitate to reach out!\"}),\"\\n\",e(l.p,{children:e(l.em,{children:'\"Automate the boring stuff, focus on what matters.\"'})})]})}return{default:function(n={}){const{wrapper:i}=n.components||{};return i?e(i,{...n,children:e(_createMdxContent,{...n})}):_createMdxContent(n)}};",
+    "slugAsParams": "sarah-robinson"
+  },
+  {
+    "slug": "member/zoe-garcia",
+    "firstName": "Zoe",
+    "lastName": "Garcia",
+    "imageUrl": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "studentId": "2023028",
+    "nickname": "Zoe",
+    "position": "Wakil Bendahara",
+    "department": "Teknik Informatika",
+    "semester": 5,
+    "birthDate": "2003-05-18",
+    "birthPlace": "Malang",
+    "address": "Jl. Veteran No. 87, Malang Kota",
+    "phone": "+62814-5678-9012",
+    "email": "zoe.garcia@student.univ.ac.id",
+    "bio": "Mendukung pengelolaan keuangan kelas dengan sistem kontrol yang baik dan membantu dalam pengambilan keputusan finansial.",
+    "hobbies": [
+      "Auditing",
+      "Technology",
+      "Sports",
+      "Music"
+    ],
+    "skills": [
+      {
+        "name": "Financial Auditing",
+        "level": 90
+      },
+      {
+        "name": "Risk Management",
+        "level": 85
+      },
+      {
+        "name": "Budget Analysis",
+        "level": 88
+      },
+      {
+        "name": "Teamwork",
+        "level": 92
+      }
+    ],
+    "achievements": [
+      "Internal Auditor Student Organization 2023",
+      "Juara 3 Case Study Competition Akuntansi",
+      "Risk Management Workshop Certificate",
+      "Vice Treasurer IT Student Community"
+    ],
+    "socialNetworks": [
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/zoe-garcia/"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/zoegarcia"
+      }
+    ],
+    "activities": [
+      {
+        "title": "Audit internal keuangan kelas",
+        "description": "Melakukan review dan audit berkala terhadap laporan keuangan",
+        "date": "2023-11-28"
+      },
+      {
+        "title": "Backup sistem pencatatan keuangan",
+        "description": "Menyiapkan sistem backup untuk keamanan data finansial",
+        "date": "2023-11-10"
+      },
+      {
+        "title": "Konsultasi kebijakan anggaran kelas",
+        "description": "Memberikan masukan untuk kebijakan pengelolaan anggaran",
+        "date": "2023-10-15"
+      }
+    ],
+    "order": 5,
+    "isActive": true,
+    "joinDate": "2023-09-01",
+    "body": "const{Fragment:a,jsx:n,jsxs:i}=arguments[0];function _createMdxContent(e){const r={a:\"a\",h1:\"h1\",h2:\"h2\",li:\"li\",ol:\"ol\",p:\"p\",strong:\"strong\",ul:\"ul\",...e.components};return i(a,{children:[n(r.h1,{id:\"tentang-saya\",children:n(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#tentang-saya\",children:\"Tentang Saya\"})}),\"\\n\",n(r.p,{children:\"Halo! Saya Zoe Garcia, Wali Bendahara Kelas Teknik Informatika angkatan 2023. Sebagai partner Bendahara, saya bertugas memastikan sistem kontrol internal yang baik dan memberikan second opinion dalam pengambilan keputusan finansial kelas.\"}),\"\\n\",n(r.h2,{id:\"visi--misi\",children:n(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#visi--misi\",children:\"Visi & Misi\"})}),\"\\n\",n(r.p,{children:\"Visi saya sebagai Wali Bendahara adalah memastikan pengelolaan keuangan kelas berjalan dengan checks and balances yang baik untuk meminimalisir risiko dan memaksimalkan manfaat.\"}),\"\\n\",n(r.p,{children:n(r.strong,{children:\"Misi yang saya jalankan:\"})}),\"\\n\",i(r.ul,{children:[\"\\n\",n(r.li,{children:\"Melakukan kontrol internal terhadap sistem keuangan kelas\"}),\"\\n\",n(r.li,{children:\"Memberikan audit berkala untuk memastikan akurasi laporan\"}),\"\\n\",n(r.li,{children:\"Menjadi backup system dalam pengelolaan keuangan\"}),\"\\n\",n(r.li,{children:\"Memberikan analisis risiko finansial untuk setiap kegiatan\"}),\"\\n\"]}),\"\\n\",n(r.h2,{id:\"pengalaman-audit--kontrol\",children:n(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#pengalaman-audit--kontrol\",children:\"Pengalaman Audit & Kontrol\"})}),\"\\n\",n(r.p,{children:\"Dengan background di bidang audit internal organisasi kemahasiswaan, saya memahami pentingnya sistem kontrol yang baik dalam pengelolaan keuangan. Saya juga aktif mempelajari risk management untuk organisasi.\"}),\"\\n\",n(r.h2,{id:\"sistem-kontrol-yang-diterapkan\",children:n(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#sistem-kontrol-yang-diterapkan\",children:\"Sistem Kontrol yang Diterapkan\"})}),\"\\n\",i(r.ol,{children:[\"\\n\",i(r.li,{children:[n(r.strong,{children:\"Dual Control System\"}),\" - Sistem persetujuan ganda untuk transaksi besar\"]}),\"\\n\",i(r.li,{children:[n(r.strong,{children:\"Regular Internal Audit\"}),\" - Audit internal berkala setiap bulan\"]}),\"\\n\",i(r.li,{children:[n(r.strong,{children:\"Risk Assessment\"}),\" - Analisis risiko untuk setiap keputusan finansial\"]}),\"\\n\",i(r.li,{children:[n(r.strong,{children:\"Documentation Review\"}),\" - Review kelengkapan dokumentasi finansial\"]}),\"\\n\"]}),\"\\n\",n(r.h2,{id:\"mari-bersama-menjaga-akuntabilitas\",children:n(r.a,{className:\"subheading-anchor\",\"aria-label\":\"Link to section\",href:\"#mari-bersama-menjaga-akuntabilitas\",children:\"Mari Bersama Menjaga Akuntabilitas!\"})}),\"\\n\",n(r.p,{children:\"Saya siap membantu menjaga transparansi dan akuntabilitas keuangan kelas. Jangan ragu untuk bertanya atau meminta klarifikasi mengenai sistem kontrol yang kami terapkan!\"})]})}return{default:function(a={}){const{wrapper:i}=a.components||{};return i?n(i,{...a,children:n(_createMdxContent,{...a})}):_createMdxContent(a)}};",
+    "slugAsParams": "zoe-garcia"
+  }
+]
