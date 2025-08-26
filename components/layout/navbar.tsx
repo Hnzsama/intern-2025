@@ -97,7 +97,7 @@ export const Navbar = () => {
                 <SheetTitle className="flex items-center">
                   <Link href="/" className="flex items-center">
                     <GraduationCap className="bg-gradient-to-tr border-secondary from-primary via-primary/70 to-primary rounded-lg w-9 h-9 mr-2 border text-white p-1" />
-                    TI 2021
+                    MI 2025
                   </Link>
                 </SheetTitle>
               </SheetHeader>
