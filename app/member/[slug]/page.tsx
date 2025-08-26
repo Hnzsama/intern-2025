@@ -198,17 +198,6 @@ export default function MemberDetailPage({ params }: MemberDetailPageProps) {
               Kembali ke Member
             </Button>
           </Link>
-          
-          <div className="flex items-center gap-2">
-            <Button variant="outline" size="sm" className="gap-2">
-              <Share2 className="w-4 h-4" />
-              Share
-            </Button>
-            <Button variant="outline" size="sm" className="gap-2">
-              <Download className="w-4 h-4" />
-              Export
-            </Button>
-          </div>
         </div>
         
         <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
