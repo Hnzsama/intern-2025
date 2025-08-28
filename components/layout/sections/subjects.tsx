@@ -20,52 +20,60 @@ interface SubjectProps {
 
 const subjectList: SubjectProps[] = [
   {
-    icon: "Code",
-    title: "Pemrograman Web",
-    description: "Mata kuliah yang membahas pengembangan aplikasi web menggunakan teknologi front-end dan back-end modern.",
-    credits: "3 SKS",
-    semester: "Semester 2",
-    topics: ["HTML/CSS/JavaScript", "Framework React.js", "Node.js & Express", "Database Integration"]
+    icon: "Cpu",
+    title: "Algoritma dan Pemrograman",
+    description: "matakuliah dengan model pembelajaran berbasis case study yang membahas tentang pendahuluan dan pemahaman terkait logika, algoritma, dasar bahasa pemrograman, struktur program, tipe data, notasi algoritma, kontrol, pengulangan, fungsi, pemrosesan sekuensial. ",
+    credits: "4 SKS",
+    semester: "Semester 1",
+    topics: ["Flowchart", "C++"]
   },
   {
-    icon: "Database",
-    title: "Basis Data",
-    description: "Mempelajari konsep, desain, dan implementasi sistem basis data relational dan non-relational.",
+    icon: "Calculator",
+    title: "Matematika Komputasi",
+    description: "Mata kuliah fundamental yang mengajarkan algoritma efisien dan struktur data yang optimal.",
     credits: "3 SKS",
-    semester: "Semester 3",
-    topics: ["Database Design", "SQL & NoSQL", "Database Normalization", "Query Optimization"]
+    semester: "Semester 1",
+    topics: ["Sorting & Searching", "Tree & Graph", "Dynamic Programming", "Big O Notation"]
   },
   {
     icon: "Network",
     title: "Jaringan Komputer",
     description: "Memahami konsep jaringan komputer, protokol komunikasi, dan administrasi jaringan.",
     credits: "3 SKS",
-    semester: "Semester 4",
+    semester: "Semester 1",
     topics: ["Network Topology", "TCP/IP Protocol", "Network Security", "Network Administration"]
   },
   {
-    icon: "Cpu",
-    title: "Algoritma & Struktur Data",
-    description: "Mata kuliah fundamental yang mengajarkan algoritma efisien dan struktur data yang optimal.",
-    credits: "4 SKS",
-    semester: "Semester 2",
-    topics: ["Sorting & Searching", "Tree & Graph", "Dynamic Programming", "Big O Notation"]
-  },
-  {
     icon: "Smartphone",
-    title: "Pemrograman Mobile",
+    title: "Literasi Digital",
     description: "Pengembangan aplikasi mobile untuk platform Android dan iOS menggunakan teknologi terkini.",
-    credits: "3 SKS",
-    semester: "Semester 4",
+    credits: "2 SKS",
+    semester: "Semester 1",
     topics: ["Android Development", "React Native", "Mobile UI/UX", "App Store Deployment"]
   },
   {
     icon: "Shield",
-    title: "Keamanan Informasi",
+    title: "Pengantar Manajemen Proses Bisnis",
     description: "Mempelajari konsep keamanan sistem informasi dan teknik-teknik proteksi data.",
-    credits: "3 SKS",
-    semester: "Semester 3",
+    credits: "2 SKS",
+    semester: "Semester 1",
     topics: ["Cryptography", "Network Security", "System Hardening", "Incident Response"]
+  },
+  {
+    icon: "Shield",
+    title: "Kewirausahaan",
+    description: "Mempelajari konsep kewirausahaan dan pengembangan bisnis.",
+    credits: "2 SKS",
+    semester: "Semester 1",
+    topics: ["Business Model Canvas", "Lean Startup", "Market Research", "Funding"]
+  },
+  {
+    icon: "Shield",
+    title: "Agama Islam",
+    description: "Mempelajari konsep agama Islam dan aplikasinya dalam kehidupan sehari-hari.",
+    credits: "2 SKS",
+    semester: "Semester 1",
+    topics: ["Rukun Islam", "Al-Qur'an", "Hadis", "Etika Islam"]
   }
 ];
 
