@@ -20,60 +20,60 @@ interface SubjectProps {
 
 const subjectList: SubjectProps[] = [
   {
-    icon: "Cpu",
+    icon: "Code",
     title: "Algoritma dan Pemrograman",
-    description: "matakuliah dengan model pembelajaran berbasis case study yang membahas tentang pendahuluan dan pemahaman terkait logika, algoritma, dasar bahasa pemrograman, struktur program, tipe data, notasi algoritma, kontrol, pengulangan, fungsi, pemrosesan sekuensial. ",
+    description: "Mata kuliah dengan model pembelajaran berbasis case study yang membahas tentang pendahuluan dan pemahaman terkait logika, algoritma, dasar bahasa pemrograman, struktur program, tipe data, notasi algoritma, kontrol, pengulangan, fungsi, pemrosesan sekuensial.",
     credits: "4 SKS",
     semester: "Semester 1",
-    topics: ["Flowchart", "C++"]
+    topics: ["Flowchart", "Pseudocode", "C++", "Struktur Data Dasar", "Algoritma Dasar"]
   },
   {
     icon: "Calculator",
     title: "Matematika Komputasi",
-    description: "Mata kuliah fundamental yang mengajarkan algoritma efisien dan struktur data yang optimal.",
+    description: "Mata kuliah yang membahas konsep matematika yang digunakan dalam ilmu komputer, termasuk logika matematika, fungsi matematika, statistika dasar, dan aljabar.",
     credits: "3 SKS",
     semester: "Semester 1",
-    topics: ["Sorting & Searching", "Tree & Graph", "Dynamic Programming", "Big O Notation"]
+    topics: ["Logika Matematika", "Aljabar Linear", "Statistika Dasar", "Teori Himpunan", "Probabilitas"]
   },
   {
     icon: "Network",
     title: "Jaringan Komputer",
-    description: "Memahami konsep jaringan komputer, protokol komunikasi, dan administrasi jaringan.",
+    description: "Memahami konsep jaringan komputer, protokol komunikasi, topologi jaringan, dan administrasi jaringan dasar untuk membangun infrastruktur komunikasi data.",
     credits: "3 SKS",
     semester: "Semester 1",
-    topics: ["Network Topology", "TCP/IP Protocol", "Network Security", "Network Administration"]
+    topics: ["Network Topology", "TCP/IP Protocol", "Network Security", "Network Administration", "Routing & Switching"]
   },
   {
-    icon: "Smartphone",
+    icon: "FileDigit",
     title: "Literasi Digital",
-    description: "Pengembangan aplikasi mobile untuk platform Android dan iOS menggunakan teknologi terkini.",
+    description: "Mata kuliah yang membahas tentang pemahaman dan kemampuan menggunakan teknologi digital, media, dan internet secara efektif dan bertanggung jawab.",
     credits: "2 SKS",
     semester: "Semester 1",
-    topics: ["Android Development", "React Native", "Mobile UI/UX", "App Store Deployment"]
+    topics: ["Digital Citizenship", "Information Literacy", "Media Literacy", "Digital Ethics", "Online Privacy"]
   },
   {
-    icon: "Shield",
+    icon: "Workflow",
     title: "Pengantar Manajemen Proses Bisnis",
-    description: "Mempelajari konsep keamanan sistem informasi dan teknik-teknik proteksi data.",
+    description: "Mempelajari konsep dasar manajemen proses bisnis, analisis proses, pemodelan proses, dan optimasi proses untuk meningkatkan efisiensi organisasi.",
     credits: "2 SKS",
     semester: "Semester 1",
-    topics: ["Cryptography", "Network Security", "System Hardening", "Incident Response"]
+    topics: ["Business Process Modeling", "Process Analysis", "Process Optimization", "BPMN", "Business Process Automation"]
   },
   {
-    icon: "Shield",
+    icon: "TrendingUp",
     title: "Kewirausahaan",
-    description: "Mempelajari konsep kewirausahaan dan pengembangan bisnis.",
+    description: "Mempelajari konsep kewirausahaan dan pengembangan bisnis, termasuk perencanaan bisnis, pemasaran, dan strategi inovasi.",
     credits: "2 SKS",
     semester: "Semester 1",
-    topics: ["Business Model Canvas", "Lean Startup", "Market Research", "Funding"]
+    topics: ["Business Model Canvas", "Lean Startup", "Market Research", "Funding Strategies", "Business Plan Development"]
   },
   {
-    icon: "Shield",
+    icon: "BookOpen",
     title: "Agama Islam",
-    description: "Mempelajari konsep agama Islam dan aplikasinya dalam kehidupan sehari-hari.",
+    description: "Mempelajari konsep agama Islam dan aplikasinya dalam kehidupan sehari-hari, termasuk akidah, ibadah, dan akhlak dalam perspektif Islam.",
     credits: "2 SKS",
     semester: "Semester 1",
-    topics: ["Rukun Islam", "Al-Qur'an", "Hadis", "Etika Islam"]
+    topics: ["Rukun Islam", "Al-Qur'an", "Hadis", "Etika Islam", "Syariah"]
   }
 ];
 

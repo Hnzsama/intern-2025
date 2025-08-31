@@ -1,3 +1,5 @@
+"use client";
+
 import {
   Card,
   CardContent,
@@ -14,6 +16,8 @@ import { Icon } from "@/components/ui/icon";
 import { icons } from "lucide-react";
 import { ArrowRight } from "lucide-react";
 import Link from "next/link";
+import { SimpleEntryForm } from "@/components/simple-entry-form";
+import { useState } from "react";
 
 interface AchievementProps {
   icon: string;
@@ -153,6 +157,20 @@ const getCategoryBadge = (category: string) => {
 };
 
 export const AchievementSection = () => {
+  const [achievements, setAchievements] = useState(achievementList);
+  
+  const handleNewAchievement = (data: any) => {
+    const newAchievement = {
+      ...data,
+      slug: data.title.toLowerCase().replace(/\s+/g, '-'),
+      date: new Date().toISOString().split('T')[0]
+    };
+    
+    setAchievements((prev) => [...prev, newAchievement]);
+    // Alert instead of toast
+    alert("Achievement added successfully!");
+  };
+  
   return (
     <section id="achievements" className="container py-24 sm:py-32">
       <div className="grid place-items-center lg:max-w-screen-xl gap-8 mx-auto">
@@ -173,7 +191,7 @@ export const AchievementSection = () => {
 
         {/* Achievement Grid */}
         <div className="w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {achievementList.map(
+          {achievements.map(
             ({
               icon,
               title,
@@ -278,6 +296,7 @@ export const AchievementSection = () => {
               Filter by Kategori
             </Button>
           </Link>
+          <SimpleEntryForm type="achievement" onSubmit={handleNewAchievement} />
         </div>
 
         {/* Stats Grid - sama seperti HeroSection */}
