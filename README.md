@@ -2,6 +2,15 @@
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Tech Stack
+
+- **Framework:** [Next.js](https://nextjs.org/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Content Management:** [Velite](https://velite.js.org/)
+- **UI Components:** [Radix UI](https://www.radix-ui.com/) & [Lucide React](https://lucide.dev/guide/packages/lucide-react)
+- **Form Handling:** [React Hook Form](https://react-hook-form.com/) & [Zod](https://zod.dev/)
+- **Animation:** [Tailwind CSS Animate](https://tailwindcss-animate.vercel.app/) & [Embla Carousel](https://www.embla-carousel.com/)
+
 ## Getting Started
 
 First, run the development server:
@@ -21,6 +30,42 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+
+## Project Structure
+
+Here is an overview of the project's directory structure:
+
+```
+.
+├── app/
+│   ├── (blog)/               # Routes and pages for the blog
+│   ├── (member)/             # Routes and pages for members
+│   ├── layout.tsx            # Main layout for the application
+│   └── page.tsx              # The landing page
+├── components/
+│   ├── ui/                   # Reusable UI components (buttons, cards, etc.)
+│   ├── layout/               # Layout components (header, footer, etc.)
+│   └── mdx-components.tsx    # Custom components for rendering MDX content
+├── content/
+│   ├── member/               # MDX files for each member
+│   ├── blog/                 # MDX files for blog posts
+│   └── project/              # MDX files for projects
+├── public/
+│   ├── images/
+│   │   ├── members/          # Photos of members
+│   │   ├── blog/             # Images for blog posts
+│   │   └── projects/         # Screenshots or images for projects
+│   └── favicon.ico           # Favicon for the site
+├── velite.config.ts          # Configuration for Velite content management
+├── tailwind.config.js        # Configuration for Tailwind CSS
+└── next.config.ts            # Configuration for Next.js
+```
+
+- **`app/`**: Contains all the routes and pages for the Next.js application, following the App Router convention.
+- **`components/`**: This directory is for all the reusable React components, organized into `ui` for general-purpose components and `layout` for structural components.
+- **`content/`**: All the website's content is stored here in MDX format, separated into collections like `member`, `blog`, and `project`.
+- **`public/`**: For static assets that don't need to be processed, such as images, fonts, and favicons.
+- **`velite.config.ts`**: This file configures Velite, defining the schemas for the different content types.
 
 ## Content Management
 
@@ -270,24 +315,6 @@ demo: "https://demo.ecommerce-platform.com"
 # E-commerce Platform
 
 A comprehensive e-commerce solution featuring...
-```
-
-## File Organization
-
-```
-project-root/
-├── app/                    # Next.js app directory
-├── content/               # Content collections
-│   ├── member/           # Member MDX files
-│   ├── blog/             # Blog posts (if added)
-│   └── project/          # Projects (if added)
-├── public/               # Static assets
-│   └── images/
-│       ├── members/      # Member photos
-│       ├── blog/         # Blog images
-│       └── projects/     # Project screenshots
-├── velite.config.ts      # Content configuration
-└── package.json
 ```
 
 ## Best Practices
